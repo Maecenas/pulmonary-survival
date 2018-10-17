@@ -13,6 +13,7 @@ pandas = "*"
 scikit-learn = "*"
 
 [dev-packages]
+statsmodels = "*"
 
 [requires]
 python_version = "3.7"
